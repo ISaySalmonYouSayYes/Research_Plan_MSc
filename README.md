@@ -1,2 +1,2 @@
 # LLM_mit_LangChain
-Some experimental function with LangChain can be found here.
+Some experimental function mit LangChain can be found here.
