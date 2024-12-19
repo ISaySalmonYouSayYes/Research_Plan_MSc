@@ -17,7 +17,7 @@ with their backgrounds(features dict)
 
 Here I use Langchain's conversation extension, which allows us to save and reuse this conversation for further use(e.g., summarizing for diary)
 
-## **1.4 Retrieve information from the conversation to update the features**  
+## **1.4 Retrieve information from the conversation**  
 In order to get up-to-date features, updating features dynamically is required. However, Tracking the features' changes is very costly. I planned to update the features only when a conversation
 or an event occured.  
 
