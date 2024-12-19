@@ -30,6 +30,7 @@ Diary is a key feature in this research.
 1. **events:** Record what just happened.
 2. **to_do_list:** Record what should do next.
 
-I expect what happened(events) would impact the reaction between two characters. On top of that, characters would follow to-do list to plan there next step...or probably not? Even real human beings cannot follow it www 
+I expect what happened(events) would impact the reaction between two characters. On top of that, characters should decide what to do next basing
+on the to-do list...or probably not? Even real human beings cannot follow it www 
 
 
