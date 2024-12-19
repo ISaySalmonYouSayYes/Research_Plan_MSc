@@ -25,4 +25,11 @@ or an event occured.
 1. Summarize the conversation by calling **summarize_after_chat**, which is a GPT-based model generating a summarize with tag(e.g., <wealthAfter></wealthAfter>)
 2. Retrieve the tag from the summary and update the features.
 
+## **1.5 Diary system**  
+Diary is a key feature in this research. 
+1. **events:** Record what just happened.
+2. **to_do_list:** Record what should do next.
+
+I expect what happened(events) would impact the reaction between two characters. On top of that, characters would follow to-do list to plan there next step...or probably not? Even real human beings cannot follow it www 
+
 
