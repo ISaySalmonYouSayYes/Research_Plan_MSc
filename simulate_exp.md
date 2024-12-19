@@ -1,5 +1,5 @@
 # **1. Structure**  
-## **1.1 Simulated Enviorment**  
+## **1.1 Simulated Enviornment**  
 I'm planning to create a simulated map in Unity. In order to align with the real world, creating more objects to enrich the world is required.  
 ## **1.2 The design logic for Persona(Characters)**  
 How to make the charaters more like human beings is an important task in this research. In the past, we'll have to predefine the features(e.g., a dict) of each characters, and the features
